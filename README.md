@@ -38,6 +38,22 @@ Research project focused on using meta-learning to recommend the most suitable u
 
 Repository: [Meta-learning Feature Selection](https://github.com/pablosaez21/meta-learning-feature-selection)
 
+Academic projects
+
+During my degree, I worked on several academic projects covering software engineering, backend development, data analysis, testing and full-stack development.
+
+Some areas I have worked on include:
+
+Full-stack web applications with backend, database and frontend components
+Java desktop applications following MVC, DAO and JDBC patterns
+Automated testing with JUnit, Selenium, TestNG and JMeter
+Data analysis and machine learning projects with Python, SAS and Spark
+Android development with Kotlin
+ERP module development with Odoo
+Concurrent and distributed programming with C, sockets, threads and semaphores
+
+These projects helped me build a broad software engineering foundation before focusing more deeply on backend development and applied AI systems.
+
 ## Tech stack
 
 ### Backend & AI
