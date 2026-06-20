@@ -9,8 +9,8 @@ I'm currently building projects around **LLM applications**, **RAG pipelines**, 
 * Computer Engineering graduate from Universidad Pablo de Olavide
 * Erasmus experience at Alma Mater Studiorum — Università di Bologna
 * Interested in backend development, AI systems and LLM-powered applications
-* Final Degree Project focused on meta-learning for feature selection, graded **8/10**
-* Currently building **Cerno**, an AI chess coach for Lichess players
+* Final Degree Project focused on meta-learning for feature selection
+* Currently building **Cerno**, an AI chess coach 
 
 ## Current focus
 
