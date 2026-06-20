@@ -75,7 +75,7 @@ These projects helped me build a broad software engineering foundation before fo
 ### Other
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,js,ts,react,nextjs" />
+  <img src="https://skillicons.dev/icons?i=java,js,react,nextjs" />
 </p>
 
 `Java` · `JavaScript` · `React` · `Next.js` · `Testing` · `Software Engineering`
