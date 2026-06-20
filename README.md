@@ -62,7 +62,7 @@ Repository: [Meta-learning Feature Selection](https://github.com/pablosaez21/met
   <img src="https://skillicons.dev/icons?i=java,js,ts,react,nextjs" />
 </p>
 
-`Java` · `JavaScript` · `TypeScript` · `React` · `Next.js` · `Testing` · `Software Engineering`
+`Java` · `JavaScript` · `React` · `Next.js` · `Testing` · `Software Engineering`
 
 ## Contact
 
