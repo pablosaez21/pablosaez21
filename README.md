@@ -44,13 +44,13 @@ During my degree, I worked on several academic projects covering software engine
 
 Some areas I have worked on include:
 
-Full-stack web applications with backend, database and frontend components
-Java desktop applications following MVC, DAO and JDBC patterns
-Automated testing with JUnit, Selenium, TestNG and JMeter
-Data analysis and machine learning projects with Python, SAS and Spark
-Android development with Kotlin
-ERP module development with Odoo
-Concurrent and distributed programming with C, sockets, threads and semaphores
+Full-stack web applications with backend, database and frontend components.
+Java desktop applications following MVC, DAO and JDBC patterns.
+Automated testing with JUnit, Selenium, TestNG and JMeter.
+Data analysis and machine learning projects with Python, SAS and Spark.
+Android development with Kotlin.
+ERP module development with Odoo.
+Concurrent and distributed programming with C, sockets, threads and semaphores.
 
 These projects helped me build a broad software engineering foundation before focusing more deeply on backend development and applied AI systems.
 
