@@ -28,7 +28,7 @@ AI chess coach for Lichess players that analyzes games, detects weaknesses, retr
 
 `Python` · `FastAPI` · `PostgreSQL` · `ChromaDB` · `Stockfish` · `OpenAI API` · `RAG` · `MCP` · `Docker`
 
-Repository: [Cerno — AI Chess Coach](https://github.com/pablosaez21/cerno-ai-chess-coach)
+Repository: [Cerno — AI Chess Coach](https://github.com/pablosaez21/cerno)
 
 ### Final Degree Project — Meta-learning for Feature Selection
 
