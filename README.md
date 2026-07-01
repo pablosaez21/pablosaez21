@@ -36,7 +36,7 @@ Research project focused on using meta-learning to recommend the most suitable u
 
 `Python` · `scikit-learn` · `OpenML` · `Machine Learning` · `Meta-learning` · `Feature Selection`
 
-Repository: [Meta-learning Feature Selection](https://github.com/pablosaez21/meta-learning-feature-selection)
+Repository: [Meta-learning Feature Selection](https://github.com/pablosaez21/feature-selection-meta-learning)
 
 Academic projects
 
