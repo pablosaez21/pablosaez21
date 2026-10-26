@@ -1,86 +1,39 @@
-# Hi, I'm Pablo Sáez Morales
+# Pablo Sáez Morales
 
-Computer Engineering graduate focused on **Python Backend Development**, **Software Engineering** and **Applied AI Systems**.
+Product engineer and builder, based in Madrid. I take products from the idea to production: what to build, how it should feel, and the code behind it, front to back, AI included.
 
-I'm currently building projects around **LLM applications**, **RAG pipelines**, **MCP/tool-calling** and backend architectures that turn AI capabilities into useful software products.
+Currently at **PROXUS**, building an AI-powered study platform.
 
-## About me
+I can't stop building. Most of what's below started as "I wonder if I can make this", and I keep up with everything new, especially in AI, by trying it out the same week it ships. These days that means agents and the harnesses around them: tools, MCP servers, context, and Claude Code workflows I use every day.
 
-* Computer Engineering graduate from Universidad Pablo de Olavide
-* Erasmus experience at Alma Mater Studiorum — Università di Bologna
-* Interested in backend development, AI systems and LLM-powered applications
-* Final Degree Project focused on meta-learning for feature selection
-* Currently building **Cerno**, an AI chess coach 
+- Took part in **[HackSpain](https://hackspain.com) 2026**.
+- Member of **Exponential**, the Spanish community for builders under 30.
 
-## Current focus
+## Things I've built
 
-* Python backend development with FastAPI and Django
-* LLM applications and AI agents
-* RAG systems and vector databases
-* MCP and tool-calling architectures
-* Dockerized software projects
+**[Cerno](https://github.com/pablosaez21/cerno)** · AI chess coach for Lichess players. Analyses your games with Stockfish, finds recurring weaknesses, retrieves the relevant theory (RAG) and builds a training plan.
+`Python` `FastAPI` `PostgreSQL` `ChromaDB` `OpenAI API` `MCP` `Next.js`
 
-## Featured projects
+**[Finario](https://github.com/pablosaez21/finario)** · Desktop app to track spending and income, with monthly analysis, period comparisons and ⌘K search. All local: every figure is computed in Rust over SQLite.
+`Tauri 2` `Rust` `React` `TypeScript` `SQLite`
 
-### Cerno — AI Chess Coach
+**[PROXUS challenge](https://github.com/pablosaez21/proxus-challenge)** · Turned a PDF quiz generator into a study space in four phases (understand, rebuild, explain, review), with adaptive practice, spaced repetition (FSRS), a final exam and voice explanations.
+`TypeScript` `Effect` `React` `Gemini API` `FSRS`
 
-AI chess coach for Lichess players that analyzes games, detects weaknesses, retrieves chess theory and generates personalized training recommendations.
+**Portfolio** · A 3D chess board you navigate by moving the knight, framed in a Sevillian alicatado generated in code. Coming soon.
+`Astro` `three.js` `TypeScript`
 
-`Python` · `FastAPI` · `PostgreSQL` · `ChromaDB` · `Stockfish` · `OpenAI API` · `RAG` · `MCP` · `Docker`
+**[Meta-learning for feature selection](https://github.com/pablosaez21/feature-selection-meta-learning)** · Final degree project: recommends the best univariate feature selection filter for a dataset from its meta-features.
+`Python` `scikit-learn` `OpenML`
 
-Repository: [Cerno — AI Chess Coach](https://github.com/pablosaez21/cerno)
+## Stack
 
-### Final Degree Project — Meta-learning for Feature Selection
+`TypeScript` `Effect` `React` `Astro` `three.js` `Tauri` `Rust` · `Python` `FastAPI` `Django` `PostgreSQL` `SQLite` · `LLMs` `Agents` `MCP` `RAG` `Claude Code` · `Docker` `Git`
 
-Research project focused on using meta-learning to recommend the most suitable univariate feature selection filter for classification datasets.
+## Background
 
-`Python` · `scikit-learn` · `OpenML` · `Machine Learning` · `Meta-learning` · `Feature Selection`
-
-Repository: [Meta-learning Feature Selection](https://github.com/pablosaez21/feature-selection-meta-learning)
-
-Academic projects
-
-During my degree, I worked on several academic projects covering software engineering, backend development, data analysis, testing and full-stack development.
-
-Some areas I have worked on include:
-
-Full-stack web applications with backend, database and frontend components.
-Java desktop applications following MVC, DAO and JDBC patterns.
-Automated testing with JUnit, Selenium, TestNG and JMeter.
-Data analysis and machine learning projects with Python, SAS and Spark.
-Android development with Kotlin.
-ERP module development with Odoo.
-Concurrent and distributed programming with C, sockets, threads and semaphores.
-
-These projects helped me build a broad software engineering foundation before focusing more deeply on backend development and applied AI systems.
-
-## Tech stack
-
-### Backend & AI
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,django" />
-</p>
-
-`Python` · `FastAPI` · `Django` · `REST APIs` · `OpenAI API` · `RAG` · `MCP` · `Machine Learning` · `Deep Learning`
-
-### Databases & Infrastructure
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,docker,git,github,githubactions" />
-</p>
-
-`PostgreSQL` · `ChromaDB` · `SQL` · `Docker` · `Git` · `GitHub Actions`
-
-### Other
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,js,react,nextjs" />
-</p>
-
-`Java` · `JavaScript` · `React` · `Next.js` · `Testing` · `Software Engineering`
+Computer Engineering at Universidad Pablo de Olavide (Seville), with an Erasmus year at the Università di Bologna.
 
 ## Contact
 
-* LinkedIn: [Pablo Sáez Morales](https://www.linkedin.com/in/pablo-s%C3%A1ez-morales-963b3b313/)
-* GitHub: [pablosaez21](https://github.com/pablosaez21)
+[LinkedIn](https://www.linkedin.com/in/pablo-s%C3%A1ez-morales-963b3b313/)
